@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "mhd-worker",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "d388688a-2383-4bce-8275-64971e6949d1",
+			"database_name": "mh-discord-spider"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
